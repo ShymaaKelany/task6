@@ -1,0 +1,26 @@
+.item{
+    width:100% ;
+    margin:a ;
+}
+ .group img{
+    width: 100%;
+    
+   
+    
+}
+.group{
+    display: inline-block;
+    margin: 10px;
+    width: 42%;
+    height:300px;
+    vertical-align: middle;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  input{
+      background-color:#4458dc;
+      border: solid #4458dc;
+    
+  }
+   
+    
